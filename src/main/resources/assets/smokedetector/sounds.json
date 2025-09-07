@@ -1,0 +1,10 @@
+{
+  "chirp": {
+    "sounds": [
+      {
+        "name": "smokedetector:chirp",
+        "stream": false
+      }
+    ]
+  }
+}
