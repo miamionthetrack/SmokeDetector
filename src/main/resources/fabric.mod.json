@@ -9,7 +9,8 @@
 	],
 	"contact": {
 		"homepage": "https://modrinth.com/user/Miami",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/miamionthetrack/SmokeDetector",
+		"issues": "https://github.com/miamionthetrack/SmokeDetector/issues"
 	},
 	"license": "CC0-1.0",
 	"environment": "*",
